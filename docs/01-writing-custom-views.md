@@ -162,4 +162,4 @@ private void init() {
 }
 ```
 
-同样，也需要处理系统事件，设置声音等等，就想处理单个`DraweeHolder`那样。
+同样，也需要处理系统事件，设置声音等等，就像处理单个`DraweeHolder`那样。
